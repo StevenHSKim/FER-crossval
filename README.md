@@ -68,14 +68,12 @@
 
 ## 모델 가중치 파일
 
+- `CK+`, `SFEW2.0`, `RAFDB`, `FERPlus`, `FER2013`, `ExpW` 데이터셋에 대한 위 실험의 가중치 파일이 아래 경로에 있습니다.
+- 해당 파일은 총 10번의 iteration 중 가장 validation accuracy가 높은 iteration의 checkpoint 파일입니다.
+
 | Dataset Name | POSTER++ | GSDNet | LNSUNet | POSTER | DDAMFN | Ada-DF | DAN |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| **CK+**     | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() |
-| **SFEW2.0** | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() |
-| **RAFDB**   | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() |
-| **FERPlus** | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() |
-| **FER2013** | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() |
-| **ExpW**    | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() | [Google Drive]() |
+| 링크 경로 | [Google Drive](https://drive.google.com/drive/folders/1S-xMMA5eYf6H8LIFBZDu9SKZKtxE53Qw?usp=sharing) | [Google Drive](https://drive.google.com/drive/folders/1luspatzJMjf8Lw3c1NJ9Sl01Thg2YA-A?usp=sharing) | [Google Drive](https://drive.google.com/drive/folders/1TZgG264-JxDb3tN8LSkilH-NvLqjqcMg?usp=sharing) | [Google Drive](https://drive.google.com/drive/folders/1tfediz1x1n5oHxzPKgA6LilWwU710igN?usp=sharing) | [Google Drive](https://drive.google.com/drive/folders/1yqEACstxlrwCVXYWf2WiI24Mtu2t_anS?usp=sharing) | [Google Drive](https://drive.google.com/drive/folders/1zLCQBnXDPPZg7dUtyQs0ukNsE7tSsFHq?usp=sharing) | [Google Drive](https://drive.google.com/drive/folders/1kgJhwqQDywLRNKwIFF8-_K1nENDu05r6?usp=sharing) |
 
 
 <br>
