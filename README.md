@@ -68,7 +68,7 @@
 
 ## 모델 가중치 파일
 
-- `CK+`, `SFEW2.0`, `RAFDB`, `FERPlus`, `FER2013`, `ExpW` 데이터셋에 대한 위 실험의 가중치 파일이 아래 경로에 있습니다.
+- `CK+`, `SFEW2.0`, `RAFDB`, `FERPlus`, `FER2013`, `ExpW` 데이터셋에 대한 모델별 가중치 파일이 아래 경로에 있습니다.
 - 해당 파일은 총 10번의 iteration 중 가장 validation accuracy가 높은 iteration의 checkpoint 파일입니다.
 
 | Dataset Name | POSTER++ | GSDNet | LNSUNet | POSTER | DDAMFN | Ada-DF | DAN |
