@@ -175,6 +175,6 @@ dataset/CKPlus/
 
 각 모델에 해당하는 사전학습 모델을 다운로드 받아, 각 모델의 pretrain 폴더에 아래와 같이 배치하여 사용하세요
 ```
-models/pretrain/
+pretrain/
     ir50.pth                            # improved resnet50
 ```
